@@ -1,26 +1,50 @@
-<h1 align="center">Hi 👋, I'm Mallikarjun</h1>
-<h3 align="center">A passionate iOS Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikarjunh&label=Profile%20views&color=0e75b6&style=flat" alt="mallikarjunh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mallikarjunh" alt="mallikarjunh" /></a> </p>
-
-- 💬 Ask me about: **Swift, Objective-C, SwiftUI**
-
-- ⚡ Fun fact: [I love to draw drawing and do dance](I love to draw drawing and do dance)
-
-- 📫 How to reach me: **mallikarjun.h1410@gmail.com**
+### Hi there, I'm Mallikarjun  👋
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mallikarjun_iOS?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMallikarjun_iOS&screen_name=Mallikarjun_iOS)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MallikarjunH"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MallikarjunH" /></a></p><br><br>
+## I'm a Developer and Instructor!!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mallikarjunh&show_icons=true&locale=en&layout=compact" alt="mallikarjunh" /></p>
+- 🌱 I’m currently learning SwiftUI
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw drawing and do dance
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mallikarjunh&show_icons=true&locale=en" alt="mallikarjunh" /></p>
+### Connect with me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mallikarjunh&" alt="mallikarjunh" /></p>
+[<img align="left" alt="Mallikarjun | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27955299/125941941-cd5c2a96-4bf1-462e-a8b3-7cf4e164c514.png" />][linkedin]
+[<img align="left" alt="Mallikarjun | Twitter" width="22px" src="https://user-images.githubusercontent.com/27955299/125941195-79b3ef38-3d35-46ad-a9c4-1b4a09a1451e.png" />][twitter]
+[<img align="left" alt="Mallikarjun | YouTube" width="22px" src="https://user-images.githubusercontent.com/27955299/125941482-8bd6939f-2f26-4094-8757-8790537104d4.png" />][youtube]
+[<img align="left" alt="Mallikarjun | YouTube" width="22px" src="https://user-images.githubusercontent.com/27955299/125940590-1cdadbff-62c0-4fe2-ac9d-4985c9613e80.png" />][facebook]
+[<img align="left" alt="Mallikarjun | YouTube" width="22px" src="https://user-images.githubusercontent.com/27955299/125940938-ff45c9ae-cdd1-47c5-ac32-969f7356105a.png" />][quora]
+
+<br />
+
+---
+
+<img align="left" alt="Mallikarjun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MallikarjunH&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[twitter]: https://twitter.com/Mallikarjun_iOS
+[linkedin]: https://www.linkedin.com/in/mallikarjun-hanagandi-740b53133
+[youtube]: https://www.youtube.com/channel/UCBW3PAPKWOKHf7tqTRYG_FQ
+[facebook]: https://www.facebook.com/mallikarjun.hanagandi.7
+[quora]: https://www.quora.com/profile/Mallikarjun-Hanagandi
 
