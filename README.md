@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about: **Swift, Objective-C, SwiftUI**
 - ⚡ Fun fact: I love to draw drawing and do dance
 - 📫 How to reach me: **mallikarjun.h1410@gmail.com**
